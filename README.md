@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://github.com/SETU667/check
+**URL**: https://github.com/SETU667/check/REPLACE_WITH_PROJECT_ID
 
 ## How can I edit this code?
 
@@ -10,13 +10,13 @@ There are several ways of editing your application.
 
 **Use DevHub**
 
-You can manage this project through Git and push changes to your repository.
+Simply visit the GitHub Repository(https://github.com/SETU667/check/REPLACE_WITH_PROJECT_ID) and start prompting.
 
-Changes made and committed will be available in your repository.
+Changes made via DevHub will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in your repository.
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in DevHub.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -62,11 +62,13 @@ This project is built with:
 
 ## How can I deploy this project?
 
-You can deploy using various platforms: Vercel, Netlify, GitHub Pages, or any hosting service of your choice.
+Simply open [Lovable](https://github.com/SETU667/check/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
 
-## Can I connect a custom domain to my project?
+## Can I connect a custom domain to my DevHub project?
 
 Yes, you can!
 
-Most hosting platforms support custom domains. Check your hosting provider's documentation for domain setup instructions.
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+
+Read more here: [Setting up a custom domain](https://github.com/SETU667/check/features/custom-domain#custom-domain)
 # check
