@@ -1,4 +1,4 @@
-# Welcome to your Genuine Developer Build
+# Welcome to your DevHub project
 
 ## Project info
 
@@ -8,11 +8,11 @@
 
 There are several ways of editing your application.
 
-**Use IDE or Git**
+**Use DevHub**
 
-You can edit files using your preferred IDE or push changes via Git.
+You can manage this project through Git and push changes to your repository.
 
-Changes made will be reflected in your repository.
+Changes made and committed will be available in your repository.
 
 **Use your preferred IDE**
 
@@ -62,9 +62,11 @@ This project is built with:
 
 ## How can I deploy this project?
 
-You can deploy this project using various hosting platforms like Vercel, Netlify, GitHub Pages, or any other hosting service.
+You can deploy using various platforms: Vercel, Netlify, GitHub Pages, or any hosting service of your choice.
 
 ## Can I connect a custom domain to my project?
 
-Yes, you can! Most hosting platforms support custom domains. Check your hosting provider's documentation for setup instructions.
+Yes, you can!
+
+Most hosting platforms support custom domains. Check your hosting provider's documentation for domain setup instructions.
 # check
