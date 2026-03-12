@@ -1,4 +1,4 @@
-# Welcome to your DevHub project
+# Welcome to your miniprojectsem6 project
 
 ## Project info
 
@@ -8,15 +8,15 @@
 
 There are several ways of editing your application.
 
-**Use DevHub**
+**Use miniprojectsem6**
 
 Simply visit the GitHub Repository(https://github.com/SETU667/check/REPLACE_WITH_PROJECT_ID) and start prompting.
 
-Changes made via DevHub will be committed automatically to this repo.
+Changes made via miniprojectsem6 will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in DevHub.
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in miniprojectsem6.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -62,9 +62,9 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [DevHub](https://github.com/SETU667/check/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+Simply open [miniprojectsem6](https://github.com/SETU667/check/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
 
-## Can I connect a custom domain to my DevHub project?
+## Can I connect a custom domain to my miniprojectsem6 project?
 
 Yes, you can!
 
