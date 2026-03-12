@@ -1,18 +1,18 @@
-# Welcome to your Lovable project
+# Welcome to your Genuine Developer Build
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+**URL**: https://github.com/SETU667/check
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
+**Use IDE or Git**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+You can edit files using your preferred IDE or push changes via Git.
 
-Changes made via Lovable will be committed automatically to this repo.
+Changes made will be reflected in your repository.
 
 **Use your preferred IDE**
 
